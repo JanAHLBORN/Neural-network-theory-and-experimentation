@@ -20,3 +20,10 @@ Table of content for each notebook:
 3) WP (weight perturbation)
   - Theory behind weight perturbation for ML
   - Exemplarily train a 1 Layer neural network using WP
+4) Markov_Chain_Monte_Carlo_analysis (in progress ...)
+  - Bootstrap
+  - Sampling the Ising model
+  - MC analysis
+  - Critical slowing down
+  - Hybrid Monte Carlo
+  - Worm Algorithm
