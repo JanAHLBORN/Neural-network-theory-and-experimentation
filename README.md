@@ -6,12 +6,12 @@ Table of content for each notebook:
     (probability densities, statistical moments, covariance and correlation)
   - Estimators
   - MAximum Likelihood and Likelihood fit
-  - $\chi^2$ fits (in progress ...)
+  - $\chi^2$ fits
   - reduced $\chi^2$ for goodness test
   - Gradient descent optimization (Implementation for 1 feature)
-  - Cost functions (in progress ...)
-  - Introduction to Tensorflow/Pytorch for neural networks (in progress ...)
-  - Convolutionel neural networks (in progress ...)
+  - Cost functions
+  - Introduction to Tensorflow/Pytorch for neural networks
+  - Convolutional neural networks
   - MNIST recognition task (in progress ...)
 2) Statistical_data_analysis_project
   - Filter data to reduce correlations
