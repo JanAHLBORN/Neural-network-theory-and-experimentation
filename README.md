@@ -6,8 +6,8 @@ Table of content for each notebook:
     (probability densities, statistical moments, covariance and correlation)
   - Estimators
   - MAximum Likelihood and Likelihood fit
-  - chi^2 fits (in progress ...)
-  - reduced chi^2 for goodness test
+  - $\chi^2$ fits (in progress ...)
+  - reduced $\chi^2$ for goodness test
   - Gradient descent optimization (Implementation for 1 feature)
   - Cost functions (in progress ...)
   - Introduction to Tensorflow/Pytorch for neural networks (in progress ...)
