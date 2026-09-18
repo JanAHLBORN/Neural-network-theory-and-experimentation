@@ -5,6 +5,8 @@ This repository consists of a set of jupyter notebooks containing theory and pro
 ## Table of Contents
 - [1. Introduction to Machine Learning](#1-introduction-to-machine-learning)
 - [2. Statistical Data Analysis Project](#2-statistical-data-analysis-project)
+- [3. WP (weight perturbation)](#3-weight-perturbation)
+- [4. Markov Chain Monte Carlo analysis](#4-markov-chain-monte-carlo-analysis)
 
 ---
 
@@ -34,14 +36,13 @@ This repository consists of a set of jupyter notebooks containing theory and pro
 
 ---
 
-## 3. WP (weight perturbation)
+## 3. Weight perturbation
 - [x] Theory behind weight perturbation for ML
 - [x] Exemplarily train a 1 Layer neural network using WP
 
 ---
 
-
-## 4. Markov_Chain_Monte_Carlo_analysis
+## 4. Markov Chain Monte Carlo analysis
 - [ ] 🚧 Bootstrap
 - [ ] 🚧 Sampling the Ising model
 - [ ] 🚧 MC analysis
