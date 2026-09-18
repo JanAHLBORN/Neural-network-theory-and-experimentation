@@ -24,7 +24,7 @@ This repository consists of a set of jupyter notebooks containing theory and pro
 - [x] Cost functions
 - [x] Introduction to TensorFlow / PyTorch for neural networks
 - [x] Convolutional neural networks
-- [ ] 🚧 MNIST digit recognition task *(in progress)*
+- [x] MNIST digit recognition task
 
 ---
 
