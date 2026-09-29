@@ -43,9 +43,10 @@ This repository consists of a set of jupyter notebooks containing theory and pro
 ---
 
 ## 4. Markov Chain Monte Carlo analysis
-- [ ] 🚧 Bootstrap
+- [X] Bootstrap
+- [X] MC analysis
+- [X] MCMC analysis
 - [ ] 🚧 Sampling the Ising model
-- [ ] 🚧 MC analysis
 - [ ] 🚧 Critical slowing down
 - [ ] 🚧 Hybrid Monte Carlo
 - [ ] 🚧 Worm Algorithm
