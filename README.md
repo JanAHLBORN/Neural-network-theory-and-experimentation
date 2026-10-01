@@ -1,6 +1,10 @@
-This repository consists of a set of jupyter notebooks containing theory and programming examples about **neural network training**, **statistical methods of data analysis** and methods to **approximate probability densities** or perform **importance sampling** (Markov Chain Monte Carlo analysis). 
+This repository consists of a set of jupyter notebooks containing theory and programming examples about:
+- **neural network training**: Gradient descent, cost functions, convolutions, classification task, weight perturbation
+- **statistical methods of data analysis**: Probabilities, maximum Likelihood, $\chi^2$ fit, correlations
+- **approximate probability densities**: Rejection sampling, Monte Carlo sampling, kernel density modelling
+- **importance sampling**: Markov Chain Monte Carlo, normalizing flow 
 
-# Course Overview
+# Detailed Repo Overview
 
 ## Table of Contents
 - [1. Introduction to Machine Learning](#1-introduction-to-machine-learning)
@@ -45,6 +49,7 @@ This repository consists of a set of jupyter notebooks containing theory and pro
 ## 4. Markov Chain Monte Carlo analysis
 - [X] Bootstrap
 - [X] MC analysis
+- [X] Rejection sampling
 - [X] MCMC analysis
 - [ ] 🚧 Sampling the Ising model
 - [ ] 🚧 Critical slowing down
