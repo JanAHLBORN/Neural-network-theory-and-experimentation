@@ -1,8 +1,8 @@
 This repository consists of a set of jupyter notebooks containing theory and programming examples about:
 - **neural network training**: Gradient descent, cost functions, convolutions, classification task, weight perturbation
 - **statistical methods of data analysis**: Probabilities, maximum Likelihood, $\chi^2$ fit, correlations
-- **approximate probability densities**: Rejection sampling, Monte Carlo sampling, kernel density modelling
-- **importance sampling**: Markov Chain Monte Carlo, normalizing flow 
+- **approximate probability densities**: Bootstrap, rejection sampling, Monte Carlo sampling, kernel density modelling, normalizing flow 
+- **importance sampling**: Markov Chain Monte Carlo, Hybrid Monte Carlo, Worm Algorithm
 
 # Detailed Repo Overview
 
